@@ -4,3 +4,5 @@ from dynamic enhanced magnetic resonance images (DCEMRI) acquired at different c
 correlation prior knowledge. To validate the effectiveness of PDPNet, we compared it with several state-of-the-art methods on multi-center datasets. The results showed that, comparing against the suboptimal method, the DSC and HD95 of PDPNet were improved at least by 5.13% and 7.58%
 respectively on multi-center test sets. In addition, through ablations, we demonstrated that the proposed localization module can decrease the influence of normal tissues and therefore improve the generalization ability of the model. The weak semantic priors allow focusing on tumor regions
 to avoid missing small tumors and low-contrast tumors. The cross-scale correlation priors are beneficial for promoting the shape-aware ability for irregular tumors. Thus integrating them in a unified framework improved the multicenter breast tumor segmentation performance.
+
+details on https://arxiv.org/abs/2310.13574
