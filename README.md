@@ -6,3 +6,9 @@ respectively on multi-center test sets. In addition, through ablations, we demon
 to avoid missing small tumors and low-contrast tumors. The cross-scale correlation priors are beneficial for promoting the shape-aware ability for irregular tumors. Thus integrating them in a unified framework improved the multicenter breast tumor segmentation performance.
 
  More details: https://arxiv.org/abs/2310.13574
+
+ checkpoint: https://pan.baidu.com/s/1d78oOa-_i3HZwqaBN_R7Ow?pwd=fmkn 
+ extraction code：fmkn
+
+ open access data: https://pan.baidu.com/s/1dSbWAjuNcsWjqlQaEoAiuw?pwd=kzs8 
+ extraction code：kzs8 
